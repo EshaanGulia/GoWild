@@ -1,1 +1,1 @@
-This is a project for frontiers go wild pass
+Travel website thats affordable for college kids
